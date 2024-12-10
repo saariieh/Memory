@@ -1,0 +1,13 @@
+C:\PROJEKTE\Memory\Memory\bin\Debug\Memory.exe.config
+C:\PROJEKTE\Memory\Memory\bin\Debug\Memory.exe
+C:\PROJEKTE\Memory\Memory\bin\Debug\Memory.pdb
+C:\PROJEKTE\Memory\Memory\bin\Debug\MaterialSkin.dll
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.csproj.CopyComplete
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.exe
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.pdb
+C:\PROJEKTE\Memory\Memory\obj\Debug\Memory.Form1.resources
